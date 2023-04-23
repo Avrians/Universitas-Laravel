@@ -1,7 +1,7 @@
 <div class="clever-main-menu">
     <div class="classy-nav-container breakpoint-off">
         <!-- Menu -->
-        <nav class="classy-navbar justify-content-between bg-primary" id="cleverNav">
+        <nav class="classy-navbar justify-content-between" id="cleverNav">
 
             <!-- Logo -->
             <a class="nav-brand" href="/"><img src="{{ asset('img/icons') }}/laravel.jpg" width="50" alt=""> LaraUniversity</a>
